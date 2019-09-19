@@ -1,0 +1,15 @@
+#sobre{
+    background-image: url("https://3.bp.blogspot.com/-UKlDJt75gtM/WUlMQUdV6ZI/AAAAAAAAJjE/ea2bBC7oalEBsrigJ8ZbQ1xYifcNxIbRACLcBGAs/s1600/o-espa%25C3%25A7o-entre-n%25C3%25B3s-netflix.png");
+    background-size: cover;
+    color:black;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    font-size:45px;
+}
+#sobre p span{
+    color:purple;
+    font-weight: bold;
+    
+}
