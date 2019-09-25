@@ -1,22 +1,20 @@
 #sobre{
-    background-image: url("https://3.bp.blogspot.com/-UKlDJt75gtM/WUlMQUdV6ZI/AAAAAAAAJjE/ea2bBC7oalEBsrigJ8ZbQ1xYifcNxIbRACLcBGAs/s1600/o-espa%25C3%25A7o-entre-n%25C3%25B3s-netflix.png");
-    background-size: cover;
+    background-color:rgb(244, 245, 180);
     color:black;
     display: flex;
     flex-direction:column;
     justify-content: space-evenly;
     align-items: center;
-    font-size:25px;
-    background-position-x: -1000px;  
+    font-size:30px;
+    padding-top: 40px;
+    
 }
-@media screen and (min-width:480px) {
-    #sobre {
-        background-position-x: 0;
-    }
-}
+
 #sobre p span{
-    color:rgb(10, 198, 245);
+    color:rgb(245, 10, 147);
     font-weight: bold;
+    text-shadow: 0 0 3px rgb(0,0,0,0.8);
+    
 }
 #sobre p {
     margin-bottom:40px;
@@ -27,6 +25,8 @@
     
 } 
 #sinopse h3{
-    color:rgb(10,198,245);
+    color:rgb(245, 10, 147);
     margin-bottom:20px;
+    text-shadow: 0 0 3px rgb(0,0,0,0.8);
 }
+

@@ -3,12 +3,13 @@
     background-image: url("../img/espaço\ entre\ nos.jpg");
     background-size: cover;
     background-position-x: -500px;
-    color:rgb(10, 198, 245);
+    color:rgb(245, 10, 147);
     display: flex;
     flex-direction:column;
     justify-content: space-evenly;
     align-items: center;
     font-size:60px;
+    text-shadow: 0 0 3px rgb(0,0,0,0.8);
 }
 @media screen and (min-width:577px) {
     #trailer {

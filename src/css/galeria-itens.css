@@ -1,0 +1,5 @@
+#item1 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjIxNjA2MjE5NV5BMl5BanBnXkFtZTgwMDA3ODMyMTI@._V1_SY1000_CR0,0,1677,1000_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
