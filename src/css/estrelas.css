@@ -1,0 +1,60 @@
+#estrelas {
+    background-image: url("../img/o-espaço-entre-nós-netflix.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#container-estrelas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80vw;
+    margin-bottom: 50px;
+}
+
+#container-estrelas a {
+    text-decoration: none;
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#container-estrelas a:hover {
+    box-shadow: 0 0 10px rgb(255, 255, 255, 0.5);
+}
+
+#container-estrelas a p {
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    background-color: rgb(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: 300px;
+}
+
+#Asa {
+    background-image: url("http://ethnicelebs.com/wp-content/uploads/2012/10/IHA-035811-Asa-Butterfield-400x600.jpg");
+}
+#Britt{
+    background-image: url("https://image.tmdb.org/t/p/h632/3rfesEittmRIViJFNWuip5lxJKa.jpg");
+}
+
+#Gary {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTc3NTM4MzQ5MV5BMl5BanBnXkFtZTcwOTE4MDczNw@@._V1_SY1000_CR0,0,678,1000_AL_.jpg");
+}
+#Carla {
+    background-image: url("https://pbs.twimg.com/profile_images/1030824734773178368/wAj4w2M9.jpg");
+    background-position: -22px;
+}
+#estrelas h3{
+    color:rgb(245, 10, 147);
+    font-weight: bold;
+    font-size:50px;
+    text-shadow: 0 0 3px rgb(0,0,0,0.8);
+    padding: 40px;
+}

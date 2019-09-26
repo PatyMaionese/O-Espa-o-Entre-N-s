@@ -1,5 +1,140 @@
-#item1 {
+#item1{
     background-image: url("https://m.media-amazon.com/images/M/MV5BMjIxNjA2MjE5NV5BMl5BanBnXkFtZTgwMDA3ODMyMTI@._V1_SY1000_CR0,0,1677,1000_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item2{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BYzZlNTAxNGItYzNjZi00YjcxLWIwZGEtNzkwNTk2NjgzYTNjXkEyXkFqcGdeQXVyNDMyNzUxMw@@._V1_SX1777_CR0,0,1777,762_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item3 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTkxODI3NTQ5NF5BMl5BanBnXkFtZTgwNzUwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item4 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTk2NDg5NzEwOV5BMl5BanBnXkFtZTgwMDYwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item5 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTczNjA2MjUxMl5BMl5BanBnXkFtZTgwMDUwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item6 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTcyNjk3ODIzM15BMl5BanBnXkFtZTgwODUwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item7 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZThlZThjMDAtOTU5My00NGYxLTkxOGQtODlmZmVjNjY0NmY2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk0NDk2ODc@._V1_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item8 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZjhjMjFjNzctOGE0OC00NmM1LWEzOWQtOTczOTEzNmNmNWVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk0NDk2ODc@._V1_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item9 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTk4NjEyOTc3Ml5BMl5BanBnXkFtZTgwOTQwODAwOTE@._V1_SY1000_CR0,0,1503,1000_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item10 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTU0MDY5MDk1OF5BMl5BanBnXkFtZTgwNTUwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item11 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTY4ODkzMDY4MV5BMl5BanBnXkFtZTgwMjQwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item12 {
+    background-image: url("http://br.web.img2.acsta.net/r_1920_1080/pictures/16/12/08/15/20/379745.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item13 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjE3Mzc3NTk3MV5BMl5BanBnXkFtZTgwOTMwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item14 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjM1NDU2NjU0OV5BMl5BanBnXkFtZTgwNDUwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item15 {
+    background-image: url("https://www.boletimnerd.com.br/wp-content/uploads/2017/03/Cr%C3%ADtica-O-Espa%C3%A7o-Entre-N%C3%B3s-Capa.jpg" );
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item16 {
+    background-image: url("https://pbs.twimg.com/media/C2EeTJhWgAASLaZ.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item17 {
+    background-image: url("http://www.grupoestacao.com.br/arquivo/mat2017/space/space05.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item18 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTUxMTQ4MDAwMV5BMl5BanBnXkFtZTgwNjQwODAwOTE@._V1_SY1000_CR0,0,1503,1000_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item19 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjIzNDE4Mjk5OV5BMl5BanBnXkFtZTgwODQwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item20 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjA5NDQ5MTk2NV5BMl5BanBnXkFtZTgwNjUwODAwOTE@._V1_SY1000_CR0,0,1503,1000_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item21 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjEyMTA3NTc0MF5BMl5BanBnXkFtZTgwNTQwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item22 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BOTc3MzU2NDctZDA1OC00NzExLThmMTMtNGE4YTA1ZmYyOWE3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk0NDk2ODc@._V1_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item23 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjljMjFjOTctMmJhNS00NGUyLTlhOTYtNGQxY2Q1OTZmZjE5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk0NDk2ODc@._V1_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item24 {
+    background-image: url("https://m.media-amazon.com/images/M/MV5BOGZkZGFmZjAtNGFiYi00YmFkLWFlNTItZjRiNjk1YTVjNTQ3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk0NDk2ODc@._V1_.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item25 {
+    background-image: url("https://i1.wp.com/umtigrenocinema.com/wp-content/uploads/2017/03/Espaco10.jpg");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item26 {
+    background-image: url("http://revistapreview.com.br/wp-content/uploads/2017/04/The-Space-Between-Us-Photo-5-810x456.png");
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item27 {
+    background-image: url();
+    grid-row:span 1;
+    grid-column:span 2;
+}
+#item28 {
+    background-image: url();
     grid-row:span 1;
     grid-column:span 2;
 }

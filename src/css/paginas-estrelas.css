@@ -1,0 +1,79 @@
+@import "universal.css";
+
+main {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    width: 100vw;
+    max-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+div {
+    height: 500px;
+    max-width: 800px;
+    background-color: rgb(0, 0, 0, 0.6);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    font-weight: bold;
+    align-self: center;
+    background-color: white;
+    border-radius: 25px;
+    font-size: 20px;
+}
+
+a:hover {
+    color: rgb(245, 10, 147);
+    background-color:
+}
+
+#asa-main {
+    background-image: url("../img/asa.jpg");
+
+}
+
+#britt-main {
+    background-image: url("../img/BRITT.jpg");
+}    
+
+#gary-main {
+    background-image: url("../img/gary.jpg"); 
+}
+
+#carla-main{
+    background-image: url("../img/carla-gugino.jpg");
+}
+
+@media screen and (min-width: 900px) {
+    #britt-main {
+        background-size: contain;
+        background-position-x:50% 50%;
+        background-color: black;
+    }
+}
+@media screen and (min-width:900px) {
+    #asa-main{
+        background-size: contain;
+        background-position-x:50% 50%;
+        background-color: black;
+    }
+}
