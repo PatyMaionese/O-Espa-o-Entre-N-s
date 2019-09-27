@@ -139,62 +139,57 @@
     grid-column:span 2;
 }
 #item29 {
-    background-image: url();
+    background-image: url("https://i.ytimg.com/vi/_T-REXpYchY/hqdefault.jpg");
     grid-row:span 1;
     grid-column:span 2;
 }
 #item30 {
-    background-image: url();
+    background-image: url("https://66.media.tumblr.com/69d06e8dce3cef2bd8184d1bcf91f53f/tumblr_ossrfz4GmX1vi9fhlo1_1280.jpg");
     grid-row:span 1;
     grid-column:span 2;
 }
 #item31 {
-    background-image: url();
+    background-image: url("https://4.bp.blogspot.com/-bcCueS0_-g8/WOLUH81WEJI/AAAAAAAABjA/i6Lizg3l0kUoWVQXRfwK7ghwZZjX7IQdQCLcB/s640/asa.jpg");
     grid-row:span 1;
     grid-column:span 2;
 }
 #item32 {
-    background-image: url();
+    background-image: url("https://3.bp.blogspot.com/-K1BLcF55PII/WOLIcrRgLmI/AAAAAAAABio/t0cNHRkk5SMxLuMknYh0UfLgMDXRbl9tgCLcB/s640/space%2Bbetween.jpg");
     grid-row:span 1;
     grid-column:span 2;
 }
 #item33 {
-    background-image: url();
+    background-image: url("https://66.media.tumblr.com/1848391eb148c878d06220c904df9b29/tumblr_ok4eoaSoOc1uca9oao1_1280.jpg");
     grid-row:span 1;
     grid-column:span 2;
 }
 #item34 {
-    background-image: url();
+    background-image: url("https://i.ytimg.com/vi/k-uAkldkHVI/maxresdefault.jpg");    
     grid-row:span 1;
     grid-column:span 2;
 }
 #item35 {
-    background-image: url();
+    background-image: url("https://i.ytimg.com/vi/4HYJiX_hogs/maxresdefault.jpg");
     grid-row:span 1;
     grid-column:span 2;
 }
 #item36 {
-    background-image: url();
-    grid-row:span 1;
-    grid-column:span 2;
+    background-image: url("https://i.pinimg.com/originals/f9/aa/dc/f9aadce57e59ee8af847e0f5c8f93e4d.jpg");
+    grid-row:span 2;
+    grid-column:span 1;
 }
 #item37 {
-    background-image: url();
-    grid-row:span 1;
-    grid-column:span 2;
+    background-image: url("https://pipocanamadrugada.com.br/site/wp-content/uploads/2017/03/O-Espa%C3%A7o-Entre-Nos_pipoca-na-madrugada-3.png");
+    grid-row:span 2;
+    grid-column:span 1;
 }
 #item38 {
-    background-image: url();
-    grid-row:span 1;
-    grid-column:span 2;
+        background-image: url("https://cache.moviestillsdb.com/i/500x/vtcvh8gs/the-space-between-us-lg.jpg");
+        grid-row:span 2;
+        grid-column:span 1;
 }
 #item39 {
-    background-image: url();
+    background-image: url("https://www.cosmoty.de/wp-content/uploads/2018/02/carlaguginomitdunklemlockenbobjpg.jpg");
     grid-row:span 1;
-    grid-column:span 2;
-}
-#item40 {
-    background-image: url();
-    grid-row:span 1;
-    grid-column:span 2;
+    grid-column:span 1;
 }

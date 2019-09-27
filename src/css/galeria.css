@@ -11,6 +11,7 @@
     grid-auto-flow: row dense;
     background-color: white;
     border: 4px solid white;
+    margin-bottom:40px;
 }
 
 .item-galeria {
